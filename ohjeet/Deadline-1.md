@@ -8,10 +8,11 @@
 ### Luo uusi Netbeans-projekti repositoriokansioosi
 * Luo projekti ja konfiguroi Maven ja PIT [näiden ohjeiden](Maven-ja-PIT.md) mukaisesti.
 * Samalla kansioon pitäisi ilmestyä .gitignore -tiedosto
+* [Linkki](https://github.com/github/gitignore) repoon, jossa on mahdollisia .gitgnorea -kansion sisältöjä eri kielille ja build-työkaluille - kannattaa siis kurkata tiedostoja Maven ja Java.gitignore
 
 ### Kirjoita aihemäärittely
 
-**HUOM!** Kaikki kurssin dokumentaatio kirjoitetaan käyttämällä [Markdownia](https://help.github.com/articles/markdown-basics/). Tyylittele palautuksesi asianmukaisesti ja lisää jatkossa kaikki tekemäsi kuvat myös md-tiedostoihin edellämainittujen ohjeiden mukaisesti. Mikäli markdownia ei ole käytetty asianmukaisesti voi se johtaa palautuksessa nolliin pisteisiin dokumentaation osalta. 
+**HUOM!** Kaikki kurssin dokumentaatio kirjoitetaan käyttämällä [Markdownia](https://help.github.com/articles/markdown-basics/). Tyylittele palautuksesi asianmukaisesti ja lisää jatkossa kaikki tekemäsi kuvat myös md-tiedostoihin edellämainittujen ohjeiden mukaisesti. Mikäli markdownia ei ole käytetty asianmukaisesti voi se johtaa palautuksessa nolliin pisteisiin dokumentaation osalta.
 
 Lyhyt kuvaus toteutettavasta ohjelmasta tiedostoon **aiheenKuvausJaRakenne.md**. Kuvauksen ei tarvitse olla kovin pitkä eikä kattava. Kuvaus tarkentuu myöhemmin, aluksi dokumentoidaan vain ideat, joiden pohjalta työtä lähdetään tekemään. Kuvaus sisältää muutaman tekstikappaleen pituisen yleiskuvauksen.
 
@@ -53,18 +54,16 @@ Toteutetaan järjestelmä, jonka avulla ylläpidetään tietojenkäsittelylaitok
 Päivä | Tunnit | Kuvaus
 --------------- | ----- | ------
 01.01.2016 | 1.5h | Aiheen suunnittelua ja repon luonti
-... | ... | ...
 ```
 Ylläoleva markdown näkyy GitHubissa vastaavasti:
 #### Tuntikirjanpito ####
 Päivä | Tunnit | Kuvaus
 --------------- | ----- | ------
 01.01.2016 | 1.5h | Aiheen suunnittelua ja repon luonti
-... | ... | ...
 
 ### Noudata kansiorakennetta
 
-Kansiorakenne näyttää sen, miltä projektikansion pitäisi näyttää kurssin lopulla. Esimerkiksi Javadoc-kansiota tai käyttöohjeita ei tarvitse kuin kurssin lopussa. Noudata selkeää kansiorakennetta kuitenkin heti alussa. 
+Kansiorakenne näyttää sen, miltä projektikansion pitäisi näyttää kurssin lopulla. Esimerkiksi Javadoc-kansiota tai käyttöohjeita ei tarvitse kuin kurssin lopussa. Noudata selkeää kansiorakennetta kuitenkin heti alussa.
 
 Kansiorakenne:
 * Harjoitustyösi juurikansio (Repositoriokansio)
@@ -82,7 +81,13 @@ Kansiorakenne:
 
 ### Palauta Githubiin ja rekisteröi itsesi kurssin labtooliin
 
-Puske (push) kaikki edellä tehdyt muutokset ja lisäykset Githubiin Git-ohjeiden mukaisesti.
-Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register. **Valitse listasta periodiasi vastaava kurssi (esim. Javalabra2017-1 vastaa ykkösperiodin kurssia vuonna 2017).** Periodit 5/alkukesä ja 6/loppukesä viittavat kesän opintojaksoihin. Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
+1. Puske (push) kaikki edellä tehdyt muutokset ja lisäykset Githubiin Git-ohjeiden mukaisesti.
 
-**Palautuksia ei lähetetä sähköpostilla. Jos törmäät ongelmiin, niin älä jää murhehtimaan yksinäsi, vaan lähetä sähköpostia ohjaajille. Palautukseksi katsotaan viimeisin ennen deadlinea tehty Github pushaus. Ohjaajat siis seuraavat edistymistä suoraan Github-repositoriosi kautta ja antavat palautetta työstäsi pajassa sekä labtoolin välityksellä** http://tktl-labtool.herokuapp.com/mypage
+2. Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register. **Valitse listasta periodiasi vastaava kurssi (esim. Javalabra2017-1 vastaa ykkösperiodin kurssia vuonna 2017).** Periodit 5/alkukesä ja 6/loppukesä viittavat kesän opintojaksoihin. Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
+
+**Palautuksia ei lähetetä sähköpostilla.** Palautukseksi katsotaan viimeisin ennen deadlinea tehty Github pushaus.
+
+
+Jos törmäät ongelmiin, niin älä jää murhehtimaan yksinäsi, vaan lähetä sähköpostia ohjaajille. Ohjaajat siis seuraavat edistymistä suoraan Github-repositoriosi kautta ja antavat palautetta työstäsi pajassa sekä labtoolin välityksellä
+
+http://tktl-labtool.herokuapp.com/mypage

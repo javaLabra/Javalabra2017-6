@@ -13,14 +13,14 @@
 * [Checkstyle](ohjeet/Checkstyle.md)
 
 **Ohjaajat:**
-* Irene Nikkarinen (petitcharp) etunimi.sukunimi@helsinki.fi
-* Mauri Karlin (rovaniemi) etunimi.sukunimi@cs.helsinki.fi
-
-**Kurssin IRC-kanava**:
-\#javalabra @ IRCnet
+* Irene Nikkarinen (petitcharp) irene.nikkarinen@helsinki.fi
+* Mauri Karlin (rovaniemi) karlin@cs.helsinki.fi
 
 **Kurssin Telegram-keskustelu**
 [javalabra](https://t.me/javalabra)
+
+**Kurssin IRC-kanava**:
+\#javalabra @ IRCnet
 
 **Telegramin ja ircin välillä on tunneli, eli vain toiseen liittyminen riittää**
 
@@ -30,19 +30,19 @@
 
 Kurssisuoritukseen vaaditaan aikataulussa pysymystä, joten kannattaa pitää aikataulusta kiinni! Kolme myöhästynyttä palautusta tulkitaan kurssin keskeytykseksi.
 
-Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) **BK107**, ellei toisin ilmoiteta.
+Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) alapajassa **BK107** tai yläpajassa **B221**, ellei toisin ilmoiteta.
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **30**<br>24.07.-<br>30.07. |  Aloitustilaisuus<br>klo 16.15-18.00 **B119** |  | **Paja** BK107<br>17-19 |  **Paja** BK107<br>12-14 |  |  |  **DL 1**<br>23:59|
+| **30**<br>24.07.-<br>30.07. |  Aloitustilaisuus<br>klo 16.15-18.00 **B119** | **Paja** B221<br>14-16 |  |  **Paja** B221<br>12-14 |  |  |  **DL 1**<br>23:59|
 | **31**<br>31.07.-<br>06.08. |  | **Paja** BK107<br>17-19 |  | **Paja** BK107<br>12-14  |  |  |**DL 2**<br>23:59 |
 | **32**<br>07.08.-<br>13.08. |  | **Paja** BK107<br>17-19 |  | **Paja** BK107<br>12-14<br> |  |  | **DL 3**<br>23:59 |
 | **33**<br>14.08.-<br>20.08. |  | **Paja** BK107<br>17-19 | **Katselmointi 1 DL** 23:59   | **Paja** BK107<br>12-14  |  |  |  **DL 4**<br>23:59 |
 | **34**<br>21.08.-<br>27.08. |  | **Paja** BK107<br>17-19 |  | **Paja** BK107<br>12-14 | |  |  <br>**DL 5**<br>23:59 |
-| **35**<br>28.08.-<br>01.09. |  | **Katselmointi 2 DL** 23:59<br> **Paja** BK107<br>17-19 |  |  |  <br>**DL Loppupalautus**<br>23:59 |  |  |
+| **35**<br>28.08.-<br>01.09. | **Paja** BK107<br>17-19  | **Katselmointi 2 DL** 23:59|  |  |  <br>**DL Loppupalautus**<br>23:59 |  |  |
 
 * **HUOM!** **Paja-ajat ja luokat saattavat muuttua kurssin aikana.**
 
 * Lopullinen palautus 1.9.2017 klo 23:59
-* **Pakollinen** demotilaisuus pidetään viikolla **35**.
-* **Pushaa työsi GitHubiin ennen demotilaisuutta**
+* **Pakollinen** demotilaisuus pidetään viikolla **34**. Muista pushata ennen demotilaisuutta
+* Ilmoittaudu kurssille [Weboodissa](https://weboodi.helsinki.fi/hy/opettaptied.jsp?OpetTap=119282686&html=1)

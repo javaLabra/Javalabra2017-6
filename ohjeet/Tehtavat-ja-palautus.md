@@ -34,7 +34,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Toinen katselmointi, ti 29.8. klo 23:59
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
-### Loppupalautus pe 1.9. klo 23:59 (HUOMAA MUUTTUNUT AIKA)
+### Loppupalautus pe 1.9. klo 23:59
 * Loppupalautuksessa voi ansaita normaalin deadlinen tapaan 2 pistettä
 * [Lopullisen palautuksen vaatimukset (Deadline 6)](Deadline-6.md)
 * Tarkista, että kaikki on kunnossa käyttäen [muistilistaa](Muistilista.md)
