@@ -16,11 +16,12 @@
 * Irene Nikkarinen (petitcharp) irene.nikkarinen@helsinki.fi
 * Mauri Karlin (rovaniemi) karlin@cs.helsinki.fi
 
-**Kurssin Telegram-keskustelu**
-[javalabra](https://t.me/javalabra)
-
 **Kurssin IRC-kanava**:
 \#javalabra @ IRCnet
+
+[Linkki kurssin Telegram-keskusteluun](https://t.me/javalabra)
+
+[Linkki kurssin IRC-kanavalle Matrixin ja Riotin kautta](https://riot.im/app/#/room/#_ircnet_#javalabra:irc.snt.utwente.nl)
 
 **Telegramin ja ircin välillä on tunneli, eli vain toiseen liittyminen riittää**
 
