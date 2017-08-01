@@ -24,7 +24,7 @@ Nyt projektisi pom.xml:n pitäisi näyttää jotakuinkin seuraavalta:
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
-    
+
     <!-- Lisättävä osa tähän väliin-->
 
 </project>
@@ -40,7 +40,7 @@ Tämän xml:n alkuosa on jokaisella projektille yksilöllinen. Siihen emme koske
         <scope>test</scope>
     </dependency>
 </dependencies>
-    
+
 <build>
     <plugins>
         <plugin>
@@ -103,15 +103,15 @@ Lisäyksen jälkeen pom.xml pitäisi näyttää jotakuinkin tältä:
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
 ```
 
 Tämän jälkeen projektille voi tehdä mutaatiotestausraportteja, joista käy ilmi myös rivikattavuus. Tehdään vielä näiden generoimisesta hieman helpompaa.
 
-Lisää projektiin uusi tiedosto **New File...**-näppäimellä. Valitse **XML -> XML Document** ja anna sille nimeksi **nbactions**. Siirry seuraavan ikkunaan ja valitse **Well-formed Document**. Paina Finish. Nyt projektissa pitäisi olla uusi _nbactions.xml_-tiedosto. Jos se ei ole Project Files-kansiossa, siirrä se sinne. 
+Lisää projektiin uusi tiedosto **New File...**-näppäimellä. Valitse **XML -> XML Document** ja anna sille nimeksi **nbactions**. Siirry seuraavan ikkunaan ja valitse **Well-formed Document**. Paina Finish. Nyt projektissa pitäisi olla uusi _nbactions.xml_-tiedosto. Jos se ei ole Project Files-kansiossa, siirrä se sinne.
 
-Avaa tiedosto ja korvaa sen sisältö tällä: 
+Avaa tiedosto ja korvaa sen sisältö tällä:
 ``` xml
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
@@ -199,10 +199,10 @@ No mutations found. This probably means there is an issue with either the suppli
 
 * Tarkista että testisi ovat ohjelmakoodia vastaavissa paketeissa. Eli jos testaat ristinolla.logiikka- paketissa olevaa Ruutu-oliota, pitää Test Packagesissa olla paketti ristinolla.logiikka, jonka sisällä on RuutuTest.
 
-* Jos Pit-raportti generoidaan oikein, mutta se näyttää 0% kaikessa vaikka toimivia testejä on, tarkista että testitiedostojen alussa on testitiedoston pakettia vastaava pakettimäärittely, esim: `package superohjelma.logiikka` 
+* Jos Pit-raportti generoidaan oikein, mutta se näyttää 0% kaikessa vaikka toimivia testejä on, tarkista että testitiedostojen alussa on testitiedoston pakettia vastaava pakettimäärittely, esim: `package superohjelma.logiikka`
 
 * Myös jos pom.xml:n groupId:ssa on sana 'java', niin Pit-raportti voi generoitua näyttämään 0% rivi- ja mutaatiokattavuudeksi. Esimerkiksi pakettirakenne 'javalabra.korttipeli' EI siis toimi ja paketin 'javalabra' nimi täytyy muuttaa ja korjata groupId pom.xml -tiedossa.
 
-* Pit antaa myös (epäinformatiivisen) virheilmoituksen, jos projektissa ei löydy main metodia.
+* Pit antaa myös (epäinformatiivisen) virheilmoituksen, jos projektissa ei löydy main-metodia.
 
-* Jos Pit näyttää kuitenkin löytävän testit, tarkista, että main-luokkasi ei ole tyhjä.
+* Jos Pit näyttää kuitenkin löytävän testit, tarkista, että main-metodisi ei ole tyhjä.

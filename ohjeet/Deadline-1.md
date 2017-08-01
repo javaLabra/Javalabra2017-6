@@ -8,7 +8,7 @@
 ### Luo uusi Netbeans-projekti repositoriokansioosi
 * Luo projekti ja konfiguroi Maven ja PIT [näiden ohjeiden](Maven-ja-PIT.md) mukaisesti.
 * Samalla kansioon pitäisi ilmestyä .gitignore -tiedosto
-* [Linkki](https://github.com/github/gitignore) repoon, jossa on mahdollisia .gitgnorea -kansion sisältöjä eri kielille ja build-työkaluille - kannattaa siis kurkata tiedostoja Maven ja Java.gitignore
+* [Linkki](https://github.com/github/gitignore) repoon, jossa on mahdollisia .gitgnore -tiedoston sisältöjä eri kielille ja build-työkaluille - kannattaa siis kurkata tiedostoja Maven ja Java.gitignore
 
 ### Kirjoita aihemäärittely
 
