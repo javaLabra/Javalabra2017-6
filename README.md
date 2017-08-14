@@ -49,7 +49,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
   1. 21.8. klo 16-18 luokassa B222
   2. 23.8. klo 16-18 luokassa C222.
   
-  Ilmoittaudu toiseen demotilaisuuksista doodlessa (linkki myöhemmin).
+  Ilmoittaudu toiseen demotilaisuuksista doodlessa, linkki on lähetetty sähköpostiin.
   Muista pushata ennen demotilaisuutta.
   
 * Ilmoittaudu kurssille [Weboodissa](https://weboodi.helsinki.fi/hy/opettaptied.jsp?OpetTap=119282686&html=1)
